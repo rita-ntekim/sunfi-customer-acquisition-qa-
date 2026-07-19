@@ -72,6 +72,6 @@ During testing, a small number of functional and UI defects were identified, pri
 
 **Rita Ntekim**
 
-Aspiring Product Quality Assurance Analyst | Product Management
+Early stage Product Quality Assurance Analyst | Product Management
 
 GitHub: https://github.com/rita-ntekim
