@@ -56,7 +56,7 @@ Interrupts the customer acquisition journey, increases friction, and may discour
 
 ## Title
 
-"Need Help / Chat with Us" widget is displayed but is non-responsive.
+"Need Help / Chat with Us" link is displayed but is non-responsive.
 
 ### Severity
 
@@ -74,12 +74,12 @@ High
 
 ### Preconditions
 
-User is on a page where the support widget is displayed.
+User is on a page where the support link is displayed.
 
 ### Steps to Reproduce
 
-1. Navigate to a page displaying the **Need Help / Chat with Us** widget.
-2. Click the widget.
+1. Navigate to a page displaying the **Need Help / Chat with Us** link.
+2. Click the link.
 
 ### Expected Result
 
@@ -87,13 +87,13 @@ The support interface should open and allow the user to request assistance.
 
 ### Actual Result
 
-The widget is displayed but does not respond to user interaction.
+The link is displayed but does not respond to user interaction.
 
 ### Business Impact
 
 Users who require assistance during the purchase journey cannot access support, which may reduce confidence and impact conversion.
 
-**Evidence:** See `Screenshots/SF-002-Go-Back-Navigation.png`
+**Evidence:** See `Screenshots/SF-002-Chat-Widget.png`
 
 ---
 
@@ -138,7 +138,7 @@ The modal cannot be scrolled independently, while the background page scrolls in
 
 Users may be unable to review all recommendation details before proceeding, reducing usability and decision confidence.
 
-**Evidence:** See `Screenshots/SF-003-Go-Back-Navigation.png`
+**Evidence:** See `Screenshots/SF-003-Modal-Scroll.png`
 
 ---
 
@@ -183,4 +183,4 @@ The **Clear All** action remains disabled despite appliances being present.
 
 Users cannot efficiently reset their selections and may need to remove items individually or restart the process, increasing friction.
 
-**Evidence:** See `Screenshots/SF-004-Go-Back-Navigation.png`
+**Evidence:** See `Screenshots/SF-004-Clear-All.png`
